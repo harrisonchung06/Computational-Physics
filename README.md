@@ -15,6 +15,7 @@ The user defines:
 * Spring constant 
 * Mass of particles 
 * Initial Velocities on particles 
+
 ![Screen Recording 2024-10-11 220955](https://github.com/user-attachments/assets/12263e6c-20af-4632-82dd-db3c002d1605)
 
 # PSO Algorithm Visualization 
@@ -24,6 +25,7 @@ The user defines:
 * Depth below and above zero 
 * Step (constant that determines how noisy the surface is)
 * Hyperparameters of the algorithm 
+
 ![ScreenRecording2024-10-11224658-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6f22779b-093b-4a0d-a5cf-625b2656622f)
 
 
