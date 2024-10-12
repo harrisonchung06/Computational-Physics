@@ -19,7 +19,7 @@ The user defines:
 
 ![Screen Recording 2024-10-11 220955](https://github.com/user-attachments/assets/12263e6c-20af-4632-82dd-db3c002d1605)
 
-# PSO Algorithm Visualization 
+## PSO Algorithm Visualization 
 A python project that visualizes the PSO optimization algorithm on a glassy surface generated with gaussian noise using PyQtGraph and OpenGL. 
 
 The user defines:
