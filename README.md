@@ -7,6 +7,7 @@
 
 ## Spring Potential Visualization 
 A python project that visualizes three dimensional particles with a spring potential between them using PYQtGraph and OpenGL. 
+
 The user defines:
 * X and Y dimensions of the world 
 * Z dimensions of the world 
@@ -20,6 +21,7 @@ The user defines:
 
 # PSO Algorithm Visualization 
 A python project that visualizes the PSO optimization algorithm on a glassy surface generated with gaussian noise using PyQtGraph and OpenGL. 
+
 The user defines:
 * Number of particles 
 * Depth below and above zero 
@@ -31,6 +33,7 @@ The user defines:
 
 ## Ball Hill Calculator 
 A python project that allows users to calculate the parameters associated with the classical Newtonian mechnanics problem of a solid cylinder rolling down a hill with friction. 
+
 The user defines in SI Units: 
 * Hypotenuse of the slope 
 * Angle of the slope from the horizontal (+x axis) 
